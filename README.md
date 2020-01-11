@@ -1,2 +1,2 @@
 # Google-Colabs
-Google Colaboratory Notebooks
+Google Colaboratory Notebooks is a collection of notebooks.
