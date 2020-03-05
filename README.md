@@ -1,2 +1,2 @@
 # Google-Colabs
-Google Colaboratory Notebooks is a collection of notebooks. 
+Collection of notebooks with the use of Google Colaboratory.  
